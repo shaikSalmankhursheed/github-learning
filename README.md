@@ -12,3 +12,6 @@ update by manjunath
 
 updated by salman
 again
+
+
+added this line from git bash
